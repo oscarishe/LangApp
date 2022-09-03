@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/LangApp/static/css/main.73fabec5.css",
+    "main.js": "/LangApp/static/js/main.29e30f6f.js",
+    "static/media/rs_school.svg": "/LangApp/static/media/rs_school.fe91fc765bc46ddbbb0d2c687e6c6a56.svg",
+    "static/media/pencils.svg": "/LangApp/static/media/pencils.db57647fd0a1b4ce3bc5ddd498025fd8.svg",
+    "static/media/stat.svg": "/LangApp/static/media/stat.4f6ba557596ac07c220664eba26e8d5c.svg",
+    "static/media/book.svg": "/LangApp/static/media/book.bca7097b89b271929309434e7d620a28.svg",
+    "static/media/clocks.svg": "/LangApp/static/media/clocks.76b1713c8d27a02d2fecf7351abe59e6.svg",
+    "static/media/git.svg": "/LangApp/static/media/git.3191446371b018307fef354af9cadc69.svg",
+    "index.html": "/LangApp/index.html",
+    "static/media/Speaker_Icon.svg": "/LangApp/static/media/Speaker_Icon.e2dc5cd46dd247c65afe.svg",
+    "main.73fabec5.css.map": "/LangApp/static/css/main.73fabec5.css.map",
+    "main.29e30f6f.js.map": "/LangApp/static/js/main.29e30f6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73fabec5.css",
+    "static/js/main.29e30f6f.js"
+  ]
+}

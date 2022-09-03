@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react"
-import { GameNames, ITodayInfoProps, RusGameNames } from "../../interfaces/interfaces";
+import { GameNames, ITodayInfoProps} from "../../interfaces/interfaces";
 import { getToday } from "../../util/util";
 import { calculateLearnedWordsByDate, calculateTotalWinRate, getWordsBySource } from "../util/statsUtil";
 import { GameInfo } from "./GameInfo";
@@ -21,6 +21,7 @@ export const TodayInfo: React.FC<ITodayInfoProps> = (props) => {
         setAudiocallWordsCount(audiocallCount);
         setSprintWordsCount(sprintCount);
         setWordsCount(count);
+        console.log(audiocallWordsCount, sprintWordsCount);
     }, [props.userWords, wordsCount])
     return (
     <div>

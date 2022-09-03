@@ -1,5 +1,4 @@
 import { ProgressBar } from 'react-bootstrap';
-import { propTypes } from 'react-bootstrap/esm/Image';
 import styles from '../Etextbook.module.css';
 
 interface IProgress {
